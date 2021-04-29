@@ -18,7 +18,7 @@ export function Summary(){
                     <p>Saídas</p>
                     <img src={outcomeImg} alt="Saidas"/>
                 </header>
-                <strong>-R$500,00</strong>
+                <strong>- R$500,00</strong>
             </div>
             <div className="highlight-background">
                 <header>
